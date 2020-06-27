@@ -1,0 +1,5 @@
+c:\users\198853\documents\visual studio 2012\Projects\ShoppingApp\PromotionEngine\bin\Debug\PromotionEngine.dll
+c:\users\198853\documents\visual studio 2012\Projects\ShoppingApp\PromotionEngine\bin\Debug\PromotionEngine.pdb
+c:\users\198853\documents\visual studio 2012\Projects\ShoppingApp\PromotionEngine\obj\Debug\PromotionEngine.csprojResolveAssemblyReference.cache
+c:\users\198853\documents\visual studio 2012\Projects\ShoppingApp\PromotionEngine\obj\Debug\PromotionEngine.dll
+c:\users\198853\documents\visual studio 2012\Projects\ShoppingApp\PromotionEngine\obj\Debug\PromotionEngine.pdb
